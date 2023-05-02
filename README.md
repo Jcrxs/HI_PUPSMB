@@ -1,3 +1,3 @@
 # HI_PUPSMB
 
-This is my first 
+My very first repository in Integrative Programming and Technologies
